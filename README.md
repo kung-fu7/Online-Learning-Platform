@@ -35,9 +35,14 @@ Username: admin
 Password: Test@pass1
 
 //"Here, I mention the instructor and student if you want to check them as well, but you can also create a new instructor and student."//
+
+
 Instructor
 Username: elias17
 Password: elias17
+
+
+
 STUDENT
 Username: rakesh01
 Password: Rakesh@1
